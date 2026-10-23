@@ -1,0 +1,3 @@
+// Generated from src/bridge.py by CMake.
+#pragma once
+static const char kBridgePy[] = R"BRIDGE(@BRIDGE_PY@)BRIDGE";
